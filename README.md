@@ -1,5 +1,4 @@
-## Hi there 👋
-Iam Dillisha Meesala
+ Hi I'm DILLISHA MEESALA
 currently iam purchoosing b.tech 3rd year (CSE)
 Iam a Front End Developer( HTML,CSS,JAVASCRIPT)
 Iam looking for internships with good job
